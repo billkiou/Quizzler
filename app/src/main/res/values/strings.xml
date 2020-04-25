@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">To anthropino soma apoteleitai apo 70% nero.</string>
+    <string name="question_2">I proteuousa tis Elladas einai i Athina.</string>
+    <string name="question_3">To pasxa einai kiniti eorti.</string>
+    <string name="question_4">O Ermis einai o kontinoteros planitis tou Iliou.</string>
+    <string name="question_5">Ta auga einai plousia se proteines</string>
+    <string name="question_6">To proino theoreitai aparaitito geuma.</string>
+    <string name="question_7">Theoreitai paranomi i prosperasi apo deixa.</string>
+    <string name="question_8">I selini kanei 15 meres peristrofi giro apo ton eauto tis.</string>
+    <string name="question_9">To instagram anikei sto Fcebook.</string>
+    <string name="question_10">To proto album tou Eminem itan to Slim Shady LP.</string>
+    <string name="question_11">Ton megalitero ixo se decibel mporei na ton kanei i falena.</string>
+    <string name="question_12">To tetragono tis ipoteinousas isoutai me to athroisma ton tetragonon ton dio katheton pleuron. Auto to eipe o Sokratis.</string>
+    <string name="question_13">I sokolata energopoiei tis endorfines.</string>
+
+</resources>
